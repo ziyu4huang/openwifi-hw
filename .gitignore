@@ -1,0 +1,3 @@
+*.log
+verilator_ast.txt
+verilator_ast.xml
