@@ -1,3 +1,4 @@
 *.log
 verilator_ast.txt
 verilator_ast.xml
+obj_dir
